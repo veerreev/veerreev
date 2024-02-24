@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @veerreev
+- 👋 Hi, I’m @veereev
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any kind of app
